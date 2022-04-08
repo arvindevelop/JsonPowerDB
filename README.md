@@ -16,6 +16,7 @@
     <li>It helps developers in faster coding, in-turn reduces development cost.</li>
   </ul>
   <h3>Screenshots:</h3>
+  <img src="/Assets/screenshots/dashboard-jpdb.jpg" alt="My cool logo"/>
   
   
   
