@@ -16,7 +16,15 @@
     <li>It helps developers in faster coding, in-turn reduces development cost.</li>
   </ul>
   <h3>Screenshots:</h3>
-  <img src="/Assets/screenshots/dashboard-jpdb.jpg" alt="My cool logo"/>
+  <img src="https://github.com/arvindevelop/JsonPowerDB/blob/main/Assets/screenshots/dashboard-jpdb.JPG" alt="My cool logo"/>
+  <p align="center" text-weight="bold">
+    JPDB Dashboard
+</p>
+<img src="" alt="My cool logo"/>
+  <p align="center" text-weight="bold">
+    Visualize Table
+</p>
+  
   
   
   
