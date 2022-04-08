@@ -20,7 +20,7 @@
   <p align="center" text-weight="bold">
     JPDB Dashboard
 </p>
-<img src="" alt="My cool logo"/>
+<img src="https://github.com/arvindevelop/JsonPowerDB/blob/main/Assets/screenshots/database-jpdb.JPG" alt="My cool logo"/>
   <p align="center" text-weight="bold">
     Visualize Table
 </p>
