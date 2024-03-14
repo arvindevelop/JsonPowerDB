@@ -18,11 +18,11 @@
   <h3>Screenshots:</h3>
   <img src="https://github.com/arvindevelop/JsonPowerDB/blob/main/Assets/screenshots/dashboard-jpdb.JPG" alt="My cool logo"/>
   <p align="center" text-weight="bold">
-    JPDB Dashboard
+    Fig.1.JPDB Dashboard
 </p>
 <img src="https://github.com/arvindevelop/JsonPowerDB/blob/main/Assets/screenshots/database-jpdb.JPG" alt="My cool logo"/>
   <p align="center" text-weight="bold">
-    Visualize Table
+    fig.2.Visualize Table
 </p>
   
   
